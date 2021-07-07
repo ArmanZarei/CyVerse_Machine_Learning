@@ -1,0 +1,100 @@
+site_name: CyVerse Summer Internship
+site_description: CyVerse Summer Internship
+site_author: Arman Zarei
+site_url: https://armanzarei.github.io/cyverse_summer_2021_internship/
+
+# Repository
+repo_name: CyVerse_Summer_2021_Internship
+repo_url: https://github.com/ArmanZarei/CyVerse_Summer_2021_Internship
+# Copyright
+copyright: 'Copyright &copy; 2021 - 2022 Arman Zarei'
+
+
+# Configuration
+theme:
+  name: 'material'
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  font:
+    text: Google Sans
+    code: Regular
+  favicon: images/cyverse_icon.png
+  icon:
+    logo: material/file-document-edit-outline
+    repo: fontawesome/brands/github
+  
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+# Extra CSS Files
+extra_css:
+  - css/general.css
+
+# Options
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ArmanZarei/CyVerse_Summer_2021_Internship
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
+# Page tree
+nav:
+  - Home:
+    - Introduction: index.md
+  - Tasks:
+    - First Task: task_1.md
+    - Second Task: task_2.md
