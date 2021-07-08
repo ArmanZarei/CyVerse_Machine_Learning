@@ -44,6 +44,13 @@ theme:
 extra_css:
   - css/general.css
 
+# Extra JS Files
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
 # Options
 extra:
   social:
@@ -98,3 +105,5 @@ nav:
   - Tasks:
     - First Task: task_1.md
     - Second Task: task_2.md
+  - Articles:
+    - PointNet: articles/pointNet/pointNet.md
