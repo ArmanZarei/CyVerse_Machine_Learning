@@ -107,3 +107,4 @@ nav:
     - Second Task: task_2.md
   - Articles:
     - PointNet: articles/pointNet/pointNet.md
+    - PointNet++: articles/pointNet++/main.md
