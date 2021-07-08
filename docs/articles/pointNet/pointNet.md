@@ -63,4 +63,4 @@ $L_{reg} = ||I - AA^T||_F^2$
 
 ## Resources
 - [3D Point Cloud Semantic Segmentation Using Deep Learning Techniques](https://medium.com/analytics-vidhya/3d-point-cloud-semantic-segmentation-using-deep-learning-techniques-6c4504a97ce6)
-- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](http://stanford.edu/~rqi/pointnet/)
+- [Qi, C. R., Su, H., Mo, K., & Guibas, L. J. (2017). Pointnet: Deep learning on point sets for 3d classification and segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 652-660)](https://openaccess.thecvf.com/content_cvpr_2017/html/Qi_PointNet_Deep_Learning_CVPR_2017_paper.html)
