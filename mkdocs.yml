@@ -1,11 +1,11 @@
 site_name: CyVerse Summer Internship
 site_description: CyVerse Summer Internship
 site_author: Arman Zarei
-site_url: https://armanzarei.github.io/cyverse_summer_2021_internship/
+site_url: https://armanzarei.github.io/CyVerse_Summer_Internship/
 
 # Repository
 repo_name: CyVerse_Summer_2021_Internship
-repo_url: https://github.com/ArmanZarei/CyVerse_Summer_2021_Internship
+repo_url: https://github.com/ArmanZarei/CyVerse_Summer_Internship
 # Copyright
 copyright: 'Copyright &copy; 2021 - 2022 Arman Zarei'
 
@@ -48,7 +48,7 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/ArmanZarei/CyVerse_Summer_2021_Internship
+      link: https://github.com/ArmanZarei/CyVerse_Summer_Internship
 
 # Extensions
 markdown_extensions:
