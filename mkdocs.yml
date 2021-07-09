@@ -108,3 +108,4 @@ nav:
   - Articles:
     - PointNet: articles/pointNet/pointNet.md
     - PointNet++: articles/pointNet++/main.md
+    - RandLA-Net: articles/RandLANet/main.md
