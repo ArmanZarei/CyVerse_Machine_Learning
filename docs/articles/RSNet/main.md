@@ -41,5 +41,5 @@ processed features $\rightarrow$ final predictions for each point
 **Note:** Both input and output blocks use a sequence of multiple $1 \times 1$ convolutional layers to produce independent feature representations for each point.
 
 <div style='text-align: center;'>
-    <img src='../images/architechture.PNG'>
+    <img src='../images/architechture.png'>
 </div>
