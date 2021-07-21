@@ -1,15 +1,15 @@
-- [ ] Task #1 Data Discovery
-  - [ ] Explore PhytoOracle Data archive and identify test data sets to use
-  - [ ] Convert orthomosaic and 2D elevation models (Digital Surface Models DSM, and Digital Terrain Models (DTM)) to Cloud Optimized Geotiff
-    - [ ]   https://www.cogeo.org/
-    - [ ]   Test Viewer in Browser with data from CyVerse
-  - [ ] Convert LAS and LAZ to Entwine Point Tiles
-    - [ ]  https://entwine.io/
-    - [ ]  Test Viewer in Browser with data from in CyVerse 
-- [ ] Task #2 Develop Docker Containers 
-  - [ ] Explore NVIDIA GPU Cloud and identify containers (PyTorch, Tensorflow, etc) 
-  - [ ] Explore NVIDIA pre-trained models and identify potential uses
-  - [ ] Create GitHub Repository with custom CyVerse Dockerfiles for deployment in VICE
-  - [ ] Create Tools and Apps for running containers in CyVerse
-    - [ ] Test
-    - [ ] Publish   
+- [ ] Data Discovery
+    - [ ] Explore PhytoOracle Data archive and identify test data sets to use
+    - [ ] Convert orthomosaic and 2D elevation models (Digital Surface Models DSM, and Digital Terrain Models (DTM)) to Cloud Optimized Geotiff
+        - [ ]   https://www.cogeo.org/
+        - [ ]   Test Viewer in Browser with data from CyVerse
+    - [ ] Convert LAS and LAZ to Entwine Point Tiles
+        - [ ]  https://entwine.io/
+        - [ ]  Test Viewer in Browser with data from in CyVerse 
+- [ ] Develop Docker Containers 
+    - [ ] Explore NVIDIA GPU Cloud and identify containers (PyTorch, Tensorflow, etc) 
+    - [ ] Explore NVIDIA pre-trained models and identify potential uses
+    - [ ] Create GitHub Repository with custom CyVerse Dockerfiles for deployment in VICE
+    - [ ] Create Tools and Apps for running containers in CyVerse
+        - [ ] Test
+        - [ ] Publish   
