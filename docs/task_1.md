@@ -7,8 +7,8 @@
         - [ ]  https://entwine.io/
         - [ ]  Test Viewer in Browser with data from in CyVerse 
 - [ ] Develop Docker Containers 
-    - [ ] Explore NVIDIA GPU Cloud and identify containers (PyTorch, Tensorflow, etc) 
-    - [ ] Explore NVIDIA pre-trained models and identify potential uses
+    - [x] Explore NVIDIA GPU Cloud and identify containers (PyTorch, Tensorflow, etc) 
+    - [x] Explore NVIDIA pre-trained models and identify potential uses
     - [ ] Create GitHub Repository with custom CyVerse Dockerfiles for deployment in VICE
     - [ ] Create Tools and Apps for running containers in CyVerse
         - [ ] Test
