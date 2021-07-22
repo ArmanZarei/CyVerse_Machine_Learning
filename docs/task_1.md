@@ -9,7 +9,7 @@
 - [ ] Develop Docker Containers 
     - [x] Explore NVIDIA GPU Cloud and identify containers (PyTorch, Tensorflow, etc) 
     - [x] Explore NVIDIA pre-trained models and identify potential uses
-    - [ ] Create GitHub Repository with custom CyVerse Dockerfiles for deployment in VICE
+    - [x] Create GitHub Repository with custom CyVerse Dockerfiles for deployment in VICE
     - [ ] Create Tools and Apps for running containers in CyVerse
         - [ ] Test
         - [ ] Publish   
