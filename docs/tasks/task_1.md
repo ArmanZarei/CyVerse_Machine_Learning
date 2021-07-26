@@ -1,5 +1,5 @@
 - [ ] Data Discovery
-    - [ ] Explore PhytoOracle Data archive and identify test data sets to use
+    - [x] Explore PhytoOracle Data archive and identify test data sets to use
     - [ ] Convert orthomosaic and 2D elevation models (Digital Surface Models DSM, and Digital Terrain Models (DTM)) to Cloud Optimized Geotiff
         - [ ]   https://www.cogeo.org/
         - [ ]   Test Viewer in Browser with data from CyVerse
