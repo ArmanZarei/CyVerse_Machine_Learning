@@ -5,7 +5,7 @@
         - [ ]   Test Viewer in Browser with data from CyVerse
     - [ ] Convert LAS and LAZ to Entwine Point Tiles
         - [ ]  https://entwine.io/
-        - [ ]  Test Viewer in Browser with data from in CyVerse 
+        - [x]  Test Viewer in Browser with data from in CyVerse 
 - [ ] Develop Docker Containers 
     - [x] Explore NVIDIA GPU Cloud and identify containers (PyTorch, Tensorflow, etc) 
     - [x] Explore NVIDIA pre-trained models and identify potential uses
