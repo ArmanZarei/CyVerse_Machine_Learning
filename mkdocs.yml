@@ -103,8 +103,8 @@ nav:
   - Home:
     - Introduction: index.md
   - Tasks:
-    - First Task: task_1.md
-    - Second Task: task_2.md
+    - First Task: tasks/task_1.md
+    - Second Task: tasks/task_2.md
   - Articles:
     - PointNet: articles/pointNet/pointNet.md
     - PointNet++: articles/pointNet++/main.md
