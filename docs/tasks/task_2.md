@@ -1,3 +1,3 @@
-- [ ] Create Logbook for daily updates
-- [ ] Generate a manuscript-like framework in the `/docs`, e.g. Introduction, Methods, Results, Discussion, Conclusions
+- [ ] Create a logbook for daily updates
+- [ ] Generate a more manuscript-like framework in these `/docs`, e.g. Introduction, Methods, Results, Discussion, Conclusions
 - [ ] Begin working with PhytoOracle datasets running PointNet Segmentation training.
