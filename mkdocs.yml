@@ -112,3 +112,4 @@ nav:
     - RSNet (Recurrent Slice Networks): articles/RSNet/main.md
   - Codes:
     - DCGAN: codes/DCGAN/main.md
+  - Daily Report: daily_report/main.md
