@@ -29,7 +29,42 @@
         - ...
 
     - ...
-	
+
+---
+
+- `7/19/21`
+    - GAN Paper
+    - Video (for more details)
+- `7/20/21`
+    - DCGAN (Implementation using PyTorch)
+    - In person meeting
+- `7/21/21`
+    - DCGAN (Implementation)
+    - Documentation in Github Pages
+- `7/22/21`
+    - Ubuntu Setup
+    - Pytorch Notebook Dockerfile
+- `7/23/21`
+    - Searching through different problems that we can work on
+    - CS231n (CV Course)
+- `7/26/21`
+    - Visualization of point clouds with CloudCompare
+    - Container Camp
+    - CS231n (Computer Vision Course)
+- `7/27/21`
+    - PointNet
+    - Container Camp
+- `7/28/21`
+    - Docker
+    - Container Camp
+- `7/29/21`
+    - PointNet Implementation (Using PyTorch)
+- `7/30/21`
+    - PointNet Classification Implementation 
+    - Meeting with Travis on PhytoOracle Project 
+    - Deep Learning Course
+
+---
 	
 
 - `8/12/2021`
