@@ -65,8 +65,31 @@
     - Deep Learning Course
 
 ---
-	
 
+- `8/2/21`
+    - Playing with gpu06 (SSH + Docker + ...) 
+    - Testing My PyTorch Docker Image 
+    - Testing docker in gpu06
+- `8/3/21`
+    - Python Scripts of PointNet Classficiation in gpu06 + github 
+    - Container Camp 
+    - Deep Learning Course
+- `8/4/21`
+    - PointNet Classification + Documentation + Plots + ... 
+    - Deep Learning Course
+- `8/5/21`
+    - PointNet Segmentation
+- `8/9/21`
+    - PointNet Segmentation 
+    - Documentation 
+    - Find Good labeling tool
+- `8/10/21`
+    - PointNet++ Paper 
+    - Deep Learning Course
+- `8/11/21`
+    - Finding labeling tool 
+    - Deep Learning Course 
+    - DL Notebooks
 - `8/12/2021`
     - Deep Learning Course
     - Data preparation scripts
