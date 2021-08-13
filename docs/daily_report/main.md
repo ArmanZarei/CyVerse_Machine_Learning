@@ -93,3 +93,7 @@
 - `8/12/2021`
     - Deep Learning Course
     - Data preparation scripts
+- `8/13/2021`
+    - Deep Learning Course
+    - Pipeline of annotating data
+    - Set up new laptop
