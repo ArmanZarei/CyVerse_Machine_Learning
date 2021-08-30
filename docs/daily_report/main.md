@@ -97,3 +97,48 @@
     - Deep Learning Course
     - Pipeline of annotating data
     - Set up new laptop
+- `8/14/2021`
+    - Setup ubuntu & ...
+    - Workning with supervisely
+
+---
+
+- `8/16/21`
+    - splitting 3D Lettuce dataset to batches for labeling
+    - Deep Learnin Course 
+- `8/17/21`
+    - Annotating data with supervisely
+    - Scripts for conversion in gihub
+    - Deep Learnin Course 
+- `8/18/21`
+    - Rand-LA Net Paper (half)
+    - Deep Learning Course
+    - Annotate a batch of data
+    - Create a tool for visualization of labeled pointclouds 
+- `8/19/21`
+    - Add more options to visualization tool
+    - Rand-LA Net Paper (half)
+    - Deep Learning Course
+- `8/20/21`
+    - Rand-LA Net PyTorch Implementation
+    - Deep Learning Course
+    
+---
+
+- `8/23/21`
+    - Rand-LA Net PyTorch Implementation + Results + Github
+    - Annotating PhytoOracle Dataset 
+- `8/24/21`
+    - PointNet++ Imeplementation + Results + Github
+    - Annotating PhytoOracle Dataset 
+- `8/25/21`
+    - Annotating PhytoOracle Dataset
+    - 3D Lettuce Soil Segmentation (PointNet) + Result
+- `8/26/21`
+    - PointNet++ and RandLA-Net on Lettuce Soil Segmentation + Results
+    - Annotating PhytoOracle Dataset 
+- `8/27/21`
+    - Exploring other methods
+    - Annotating PhytoOracle Dataset
+- `8/28/21`
+    - Annotating PhytoOracle Dataset
