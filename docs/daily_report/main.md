@@ -142,3 +142,19 @@
     - Annotating PhytoOracle Dataset
 - `8/28/21`
     - Annotating PhytoOracle Dataset
+
+---
+
+- `8/30/21`
+    - Autoencoder + pytorch implementation
+    - playing with annotator
+    - Computer Vision Course
+- `8/31/21`
+    - Variational Autoencoder + pytorch implementation
+    - Annotating with Supervisely
+    - Computer Vision Course 
+- `9/1/21`
+    - Read a bit about ConvTranspose
+    - Annotating with Supervisely
+    - Computer Vision Course
+- `9/2/21`
