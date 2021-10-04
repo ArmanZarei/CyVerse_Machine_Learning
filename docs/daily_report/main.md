@@ -158,3 +158,55 @@
     - Annotating with Supervisely
     - Computer Vision Course
 - `9/2/21`
+    - Preparing for slides and etc. for presentation
+- `9/7/21`
+    - Computer Vision Course
+    - Docker tut + test
+- `9/8/21`
+    - Computer Vision Course 
+    - Annotation
+- `9/9/21`
+    - KNN for upsampling + multiprocessing
+- `9/10/21`
+    - Dockerization of the project + Scripts + ...
+
+---
+
+- `9/13/21`
+    - Retrain models with new data
+    - Test new models in dockerized env. 
+    - Image on dockerhub
+    - Computer Vision Course
+- `9/14/21`
+    - GUI for Lettuce/Soil PointClouds using tkinter 
+    - Dockerization of the GUI 
+    - Test on different batch
+    - Computer Vision Course
+- `9/15/21`
+    - DGCNN Paper
+- `9/18/21`
+    - DGCNN Paper 
+    - DGCNN Implementation on airplanes dataset
+- `9/20/21`
+    - DGCNN re-Implementation on lettuce dataset
+    - Improve DGCNN by modifying it and make it simpler (prevent overfitting)
+- `9/21/21`
+    - Re-Evaluation of all models on a fixed split of dataset 
+    - Tunning the training of DGCNN
+- `9/22/21`
+    - Evaluation of PointNet++, RandLANet and DGCNN on a batch of data
+    - Some labeling
+    - Computer Vision course
+- `9/23/21`
+    - Dockerize training of the PhytoOracle dataset
+    - Trying to use CUDA (for libraries) in built stage of docker (no completed)
+- `9/24/21`
+    - Containerization of train + predict - ...
+- `9/25/21`
+    - Computer Vision Course
+    - Computer Vision HW (HW1 Q1 Prac.)
+- `9/26/21`
+    - Computer Vision Course
+    - Test Containerized Environment
+    - Test Predic on a different batch
+    - (Next : Start writing paper)
